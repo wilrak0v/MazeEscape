@@ -1,3 +1,9 @@
+```Text
+.-.-.-..-.,-.
+| | | || . <
+`-----'`-'`-'
+```
+
 # Maze Escape Game
 C'est une simple jeu en 2d ASCII où l'on doit s'échapper d'un labyrinthe.
 
